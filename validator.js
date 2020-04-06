@@ -60,4 +60,3 @@
   };
 
 
- console.log( validateAadhaar("840441719017"))
